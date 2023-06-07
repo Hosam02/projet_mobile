@@ -62,7 +62,16 @@ POST /logout: This endpoint handles user logout. It expects the JWT token in the
 
 
 
+to run the app you need to do the following: 
 
+1- clone the repo
+2- cd into the repo
+3- cd into the backend folder
+4- run npm install
+5- run node index.js
+6- cd into the frontend folder
+7- run npm install
+8- run npx expo run
 
 
 
